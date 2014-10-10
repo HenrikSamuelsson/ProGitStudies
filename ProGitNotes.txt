@@ -1,0 +1,14 @@
+Some notes taken while reading the book Pro Git, 1st edition.
+
+DEFINITIONS
+-----------
+
+CVS	Concurrent Versions System
+CVCS	Centralized Version Control Systems
+
+DVCS	Distributed Version Control Systems
+
+SCM	Software Configuration Management
+SHA	Secure Hash Algorithm
+
+VCS	Version Control System

@@ -21,3 +21,8 @@ FILE GLOBBING
 -------------
 In computer programming, in particular in a Unix-like environment, the term globbing is sometimes used to refer to pattern matching based on wildcard characters.The noun "glob" is used to refer to a particular pattern, e.g. "use the glob *.log to match all those log files". Its notation is simpler than regular expressions, and without their expressive power. File globs patterns can be used in conjunction with GIT.
 
+
+
+HEAD
+----
+Head in GIT means the special pointer to the branch that is currently checked out. 

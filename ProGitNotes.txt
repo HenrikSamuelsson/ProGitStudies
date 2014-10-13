@@ -8,6 +8,8 @@ CVCS	Centralized Version Control Systems
 
 DVCS	Distributed Version Control Systems
 
+GPG	GNU Privacy Guard
+
 SCM	Software Configuration Management
 SHA	Secure Hash Algorithm
 

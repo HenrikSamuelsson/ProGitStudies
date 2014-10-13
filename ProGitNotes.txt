@@ -23,7 +23,13 @@ In computer programming, in particular in a Unix-like environment, the term glob
 
 
 
+
 CHECKOUT
 --------
 Checkout is used to switch between branches.
+
+
+HEAD
+----
+Head in GIT means the special pointer to the branch that is currently checked out. 
 

@@ -28,5 +28,15 @@ Checkout is used to switch between branches.
 
 HEAD
 ----
-Head in GIT means the special pointer to the branch that is currently checked out. 
+Head in GIT means the special pointer to the branch that is currently checked out.
+
+
+MERGE VS REBASE
+---------------
+Merge and rebase will end up with the same code in the end.
+
+Use rebase on your own private repositories before pushing to get clean history.
+
+Never rebase other peoples code, it will destroy their history, use merge instead in this case.
+
 

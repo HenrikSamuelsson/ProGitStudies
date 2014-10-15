@@ -1,7 +1,7 @@
 Some notes taken while reading the book Pro Git, 1st edition.
 
-DEFINITIONS
------------
+ABBREVIATIONS
+-------------
 
 CVS	Concurrent Versions System
 CVCS	Centralized Version Control Systems
@@ -14,6 +14,11 @@ SCM	Software Configuration Management
 SHA	Secure Hash Algorithm
 
 VCS	Version Control System
+
+
+DEFINITIONS
+-----------
+bare repository - a Git repository that has no working directory, it is just filled with the Git data.
 
 
 FILE GLOBBING
@@ -38,5 +43,8 @@ Merge and rebase will end up with the same code in the end.
 Use rebase on your own private repositories before pushing to get clean history.
 
 Never rebase other peoples code, it will destroy their history, use merge instead in this case.
+
+
+
 
 
